@@ -31,6 +31,7 @@
     ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=White)
     ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&logoColor=White)
     ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=SQL&logoColor=White)
+    ![MVC](https://img.shields.io/badge/-MVC-black?style=for-the-badge&logo=MVC&logoColor=White)
 
 ---
 
