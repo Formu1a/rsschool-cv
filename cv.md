@@ -1,13 +1,13 @@
 # CV Junior Front-end Developer
 
--   ### 1. Borisevich Kirill Sergeevich
+-   ### 1. Borisevich Kirill
 
 ---
 
-2. ### Contacts for communication
-    ### 1. Email: Toz1fq@bk.ru
-    ### 2. [Linkedin](https://www.linkedin.com/in/kirill-borisevich-15b128186/)
-    ### 3. Discord: Milgram(@Formu1a)
+-   2. ### Contacts for communication
+        1. Email: Toz1fq@bk.ru
+        2. [Linkedin](https://www.linkedin.com/in/kirill-borisevich-15b128186/)
+        3. Discord: Milgram(@Formu1a)
 
 ---
 
@@ -52,20 +52,20 @@ if (i % 3 === 0 || i % 5 === 0) { counter += i; } } return counter; }
 
 ---
 
-6. ### An experience
-    ### 1. Social network(React) [GitHub](https://github.com/Formu1a/SocialNetwork-React)
-    ### 2. Skier Game(JavaScript + JQuery) [GitHub](https://github.com/Formu1a/SkierGame-JavaScript)
-    ### 3. Authentication and registration(PHP) [GitHub](https://github.com/Formu1a/RegAndAuth-PHP)
-    ### 4. WeatherApp(node.js) [GitHub](https://github.com/Formu1a/WeatherApp-Node.js-Express)
-    ### 5. NewsApp(Webpack + JavaScript) [GitHub](https://github.com/Formu1a/NewsApp-Webpack-JavaScript)
+-   6. ### An experience
+        1. Social network(React) [GitHub](https://github.com/Formu1a/SocialNetwork-React)
+        2. Skier Game(JavaScript + JQuery) [GitHub](https://github.com/Formu1a/SkierGame-JavaScript)
+        3. Authentication and registration(PHP) [GitHub](https://github.com/Formu1a/RegAndAuth-PHP)
+        4. WeatherApp(node.js) [GitHub](https://github.com/Formu1a/WeatherApp-Node.js-Express)
+        5. NewsApp(Webpack + JavaScript) [GitHub](https://github.com/Formu1a/NewsApp-Webpack-JavaScript)
 
 ---
 
-7. ### Education
-    ### 1. IT Academy JavaScript course
-    ### 2. IT Academy HTML + CSS course
-    ### 3. English courses(With a tutor)
-    ### 4. Belarusian National Technical University(Distance learning)
+-   7. ### Education
+        1. IT Academy JavaScript course
+        2. IT Academy HTML + CSS course
+        3. English courses(With a tutor)
+        4. Belarusian National Technical University(Distance learning)
 
 ---
 
