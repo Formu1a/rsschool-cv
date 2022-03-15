@@ -1,6 +1,6 @@
 # CV Junior Front-end Developer
 
--   ### 1. Borisevich Kirill
+-   ### 1. Borisevich Kirill Sergeevich
 
 ---
 
